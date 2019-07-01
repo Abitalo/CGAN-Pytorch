@@ -8,6 +8,8 @@ Both Generator and Discriminator are based on **MLP** sturcture.
 
 [Matplotlib](https://matplotlib.org/) 
 
+[Opencv-Python](<https://pypi.org/project/opencv-python/>)
+
 ## How to run:
 
 Directly check the CGAN.ipynb using [Jupyter notebook](<https://jupyter.org/>).
