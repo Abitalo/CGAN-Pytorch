@@ -2,7 +2,7 @@ Pytorh implementation of [Conditional GAN](https://arxiv.org/abs/1411.1784) on [
 
 Both Generator and Discriminator are based on **MLP** sturcture.
 
-##Dependencies:
+## Dependencies:
 
 [Pytorch](https://github.com/pytorch/pytorch) 1.0
 
@@ -14,7 +14,7 @@ Directly check the CGAN.ipynb using [Jupyter notebook](<https://jupyter.org/>).
 
 ## Results
 
-###10 epochs
+### 10 epochs
 
 ![avatar](./samples/10.jpg)
 
@@ -22,7 +22,7 @@ Directly check the CGAN.ipynb using [Jupyter notebook](<https://jupyter.org/>).
 
 ![avatar](./samples/100.jpg)
 
-###500 epochs
+### 500 epochs
 
 ![avatar](./samples/500.jpg)
 
